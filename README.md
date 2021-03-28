@@ -1,6 +1,6 @@
 # poimandres-iterm
 
-A collection of iTerm color profiles inspired by the Poimandres VSCode themes
+A collection of iTerm color profiles inspired by the [Poimandres VSCode themes](https://marketplace.visualstudio.com/items?itemName=pmndrs.pmndrs).
 
 ## Screenshots
 
