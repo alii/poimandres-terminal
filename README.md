@@ -1,18 +1,23 @@
-# poimandres-iterm
+<div align="center">
+  <img width="200px" src="./screenshots/dots.png" alt="Dots" />
+  <h1>poimandres-iterm 🎨</h1>
+</div>
 
-A collection of iTerm color profiles inspired by the [Poimandres VSCode themes](https://marketplace.visualstudio.com/items?itemName=pmndrs.pmndrs).
+<p align="center">
+  A collection of iTerm color profiles inspired by the <a href="https://marketplace.visualstudio.com/items?itemName=pmndrs.pmndrs">Poimandres VSCode themes</a>.
+</p>
 
 ## Screenshots
 
-<h3 style="text-align: center;">Normal</h3>
+### Normal
 
 ![Normal Theme](./screenshots/normal.png)
 
-<h3 style="text-align: center;">Storm</h3>
+### Storm
 
 ![Storm Theme](./screenshots/storm.png)
 
-<h3 style="text-align: center;">Light</h3>
+### Light
 
 ![Light Theme](./screenshots/light.png)
 
