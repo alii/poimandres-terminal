@@ -1,10 +1,10 @@
 <div align="center">
   <img width="200px" src="./screenshots/dots.png" alt="Dots" />
-  <h1>poimandres-iterm 🎨</h1>
+  <h1>poimandres-terminal 🎨</h1>
 </div>
 
 <p align="center">
-  A collection of iTerm color profiles inspired by the <a href="https://marketplace.visualstudio.com/items?itemName=pmndrs.pmndrs">Poimandres VSCode themes</a>.
+  A collection of iTerm/Windows Terminal color profiles inspired by the <a href="https://marketplace.visualstudio.com/items?itemName=pmndrs.pmndrs">Poimandres VSCode themes</a>.
 </p>
 
 ## Screenshots
